@@ -1,5 +1,4 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" height="" width="300
-" />  
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" height=""  />  
   
 
 ## <div align="center">I'm Waleed , a Final Year Engineering Student from India.</div>  
