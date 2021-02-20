@@ -1,4 +1,5 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" height="" width="300
+" />  
   
 
 ## <div align="center">I'm Waleed , a Final Year Engineering Student from India.</div>  
@@ -45,6 +46,9 @@
 <a href="https://linkedin.com/in/waleed-jameel-8308ba183" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+  
+
+## Email : waleedj1699@gmail.com  
   
 
 <br/>  
