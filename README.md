@@ -4,7 +4,7 @@
 ## <div align="center">I'm Waleed , a Final Year Engineering Student from India.</div>  
   
 
-- 🔭 I’m working on getting an internship.  
+- 🔭  Currently looking for an internship to learn and to get some experience.  
   
 
 - 🌱  I’m currently learning full stack development with MERN stack .  
