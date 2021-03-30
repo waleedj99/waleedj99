@@ -48,7 +48,7 @@
   
 
 ## Email : waleedj1699@gmail.com  
-  
+## [Resume](https://drive.google.com/file/d/1j8kmrSd9SY7lyF3oq-6t4K3v4Y9Lcw5x/view?usp=sharing)
 
 <br/>  
 
